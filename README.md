@@ -7,10 +7,12 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
 
 ### Contents
 
+* [JavaScript](https://github.com/aktnk/til/wiki/JavaScript)
+  * [モダンJavaScript](https://github.com/aktnk/til/wiki/%E3%83%A2%E3%83%80%E3%83%B3JavaScript)
 * [Ubuntu](https://github.com/aktnk/til/wiki/Ubuntu)
   * [Ubuntu 22.04 LTS serverのTimezoneを変更する](https://github.com/aktnk/til/wiki/Ubuntu-22.04-LTS-server%E3%81%AETimezone%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B)
-* [JavaScript](https://github.com/aktnk/til/wiki/JavaScript)
-  * [モダンJavaScript](https://github.com/aktnk/til/wiki/%E3%83%A2%E3%83%80%E3%83%B3JavaScript) 
+* Plotly
+  * [PlotlyでTimeline Chartを描く](https://github.com/aktnk/til/wiki/Plotly%E3%81%A7Timeline-Chart%E3%82%92%E6%8F%8F%E3%81%8F)
 * [Zabbix Server 構築](https://github.com/aktnk/til/wiki/Zabbix-Server-%E6%A7%8B%E7%AF%89)
   * [同一VPC内のUbuntu Serverの監視](https://github.com/aktnk/til/wiki/%E5%90%8C%E4%B8%80VPC%E5%86%85%E3%81%AEUbuntu-Server%E3%81%AE%E7%9B%A3%E8%A6%96)
     * [同一VPC内のUbuntu Serverのsyslogログ監視](https://github.com/aktnk/til/wiki/%E5%90%8C%E4%B8%80VPC%E5%86%85%E3%81%AEUbuntu-Server%E3%81%AEsyslog%E3%83%AD%E3%82%B0%E7%9B%A3%E8%A6%96)
