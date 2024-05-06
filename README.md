@@ -11,6 +11,8 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
   * [モダンJavaScript](https://github.com/aktnk/til/wiki/%E3%83%A2%E3%83%80%E3%83%B3JavaScript)
 * [Ubuntu](https://github.com/aktnk/til/wiki/Ubuntu)
   * [Ubuntu 22.04 LTS serverのTimezoneを変更する](https://github.com/aktnk/til/wiki/Ubuntu-22.04-LTS-server%E3%81%AETimezone%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B)
+* Pandas
+  * [dataframe中のカラムの型を変換する](https://github.com/aktnk/til/wiki/dataframe%E4%B8%AD%E3%81%AE%E3%82%AB%E3%83%A9%E3%83%A0%E3%81%AE%E5%9E%8B%E3%82%92%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B)
 * Plotly
   * [PlotlyでTimeline Chartを描く](https://github.com/aktnk/til/wiki/Plotly%E3%81%A7Timeline-Chart%E3%82%92%E6%8F%8F%E3%81%8F)
 * [Zabbix Server 構築](https://github.com/aktnk/til/wiki/Zabbix-Server-%E6%A7%8B%E7%AF%89)
