@@ -27,3 +27,4 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
     * [Zabbix ServerのLanguage設定で”System default と English (en_US)”しか表示されない場合](https://github.com/aktnk/til/wiki/Zabbix-Server%E3%81%AELanguage%E8%A8%AD%E5%AE%9A%E3%81%A7%E2%80%9DSystem-default-%E3%81%A8-English-(en_US)%E2%80%9D%E3%81%97%E3%81%8B%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84%E5%A0%B4%E5%90%88)
     * [MS TeamsのMetia typeを設定する](https://github.com/aktnk/til/wiki/MS-Teams%E3%81%AEMetia-type%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)
     * [Zabbixユーザに通知するMediaとしてMS Teamsを登録する](https://github.com/aktnk/til/wiki/Zabbix%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%AB%E9%80%9A%E7%9F%A5%E3%81%99%E3%82%8BMedia%E3%81%A8%E3%81%97%E3%81%A6MS-Teams%E3%82%92%E7%99%BB%E9%8C%B2%E3%81%99%E3%82%8B)
+    * [Zabbix メモ](https://github.com/aktnk/til/wiki/Zabbix-%E3%83%A1%E3%83%A2)
