@@ -32,3 +32,5 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
     * [MS TeamsのMetia typeを設定する](https://github.com/aktnk/til/wiki/MS-Teams%E3%81%AEMetia-type%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)
     * [Zabbixユーザに通知するMediaとしてMS Teamsを登録する](https://github.com/aktnk/til/wiki/Zabbix%E3%83%A6%E3%83%BC%E3%82%B6%E3%81%AB%E9%80%9A%E7%9F%A5%E3%81%99%E3%82%8BMedia%E3%81%A8%E3%81%97%E3%81%A6MS-Teams%E3%82%92%E7%99%BB%E9%8C%B2%E3%81%99%E3%82%8B)
     * [Zabbix環境で使用する待受けポート](https://github.com/aktnk/til/wiki/Zabbix%E7%92%B0%E5%A2%83%E3%81%A7%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B%E5%BE%85%E5%8F%97%E3%81%91%E3%83%9D%E3%83%BC%E3%83%88)
+* Cloud Hosting Service
+  * [DigitalOcean解約手順](https://github.com/aktnk/til/wiki/DigitalOcean%E8%A7%A3%E7%B4%84%E6%89%8B%E9%A0%86)
