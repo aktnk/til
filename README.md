@@ -10,7 +10,7 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
 * [JavaScript](https://github.com/aktnk/til/wiki/JavaScript)
   * [モダンJavaScript](https://github.com/aktnk/til/wiki/%E3%83%A2%E3%83%80%E3%83%B3JavaScript)
 * Kubernetes
-  * [WSL2 ubuntu 20.04LTSにkubectlとkindをインストールする"](https://github.com/aktnk/til/wiki/WSL2-ubuntu-20.04LTS-%E3%81%AB-kubectl-%E3%81%A8-kind-%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B) 
+  * [WSL2 ubuntu 20.04LTSにkubectlとkindをインストールする](https://github.com/aktnk/til/wiki/WSL2-ubuntu-20.04LTS-%E3%81%AB-kubectl-%E3%81%A8-kind-%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B) 
 * Ubuntu
   * [Ubuntu 22.04 LTS serverのTimezoneを変更する](https://github.com/aktnk/til/wiki/Ubuntu-22.04-LTS-server%E3%81%AETimezone%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B)
   * [稼働している Linux のディストリビューションやバージョン、アーキテクチャを確認する](https://github.com/aktnk/til/wiki/%E7%A8%BC%E5%83%8D%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B-Linux-%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%84%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%80%81%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B)
