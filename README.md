@@ -22,6 +22,7 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
   * [PlotlyでTimeline Chartを描く](https://github.com/aktnk/til/wiki/Plotly%E3%81%A7Timeline-Chart%E3%82%92%E6%8F%8F%E3%81%8F)
 * PowerBI
   * [PowerQueryエディタでデータ編集](https://github.com/aktnk/til/wiki/PowerQuery%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%81%A7%E3%83%87%E3%83%BC%E3%82%BF%E7%B7%A8%E9%9B%86)
+  * [DAX-COUNTに関する関数](https://github.com/aktnk/til/wiki/DAX%E2%80%90COUNT%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E9%96%A2%E6%95%B0)
 * [Zabbix Server 構築](https://github.com/aktnk/til/wiki/Zabbix-Server-%E6%A7%8B%E7%AF%89)
   * [同一VPC内のUbuntu Serverの監視](https://github.com/aktnk/til/wiki/%E5%90%8C%E4%B8%80VPC%E5%86%85%E3%81%AEUbuntu-Server%E3%81%AE%E7%9B%A3%E8%A6%96)
     * [同一VPC内のUbuntu Serverのsyslogログ監視](https://github.com/aktnk/til/wiki/%E5%90%8C%E4%B8%80VPC%E5%86%85%E3%81%AEUbuntu-Server%E3%81%AEsyslog%E3%83%AD%E3%82%B0%E7%9B%A3%E8%A6%96)
