@@ -44,3 +44,5 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
     * [Adminのパスワードを初期化する](https://github.com/aktnk/til/wiki/Zabbix-%E3%81%AE-Admin-%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E5%BF%98%E3%82%8C%E3%81%9F%E5%A0%B4%E5%90%88)
 * Cloud Hosting Service
   * [DigitalOcean解約手順](https://github.com/aktnk/til/wiki/DigitalOcean%E8%A7%A3%E7%B4%84%E6%89%8B%E9%A0%86)
+* その他
+  * [SHA256SUMの計算方法](https://github.com/aktnk/til/wiki/SHA256SUM%E3%81%AE%E8%A8%88%E7%AE%97)
