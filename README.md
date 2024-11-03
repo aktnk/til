@@ -16,7 +16,7 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
   * [Ubuntu 22.04 LTS serverのTimezoneを変更する](https://github.com/aktnk/til/wiki/Ubuntu-22.04-LTS-server%E3%81%AETimezone%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B)* [kubectlコマンドに補間機能を追加](https://github.com/aktnk/til/wiki/kubectl-%E3%81%AB%E8%A3%9C%E9%96%93%E6%A9%9F%E8%83%BD%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B)
   * [稼働している Linux のディストリビューションやバージョン、アーキテクチャを確認する](https://github.com/aktnk/til/wiki/%E7%A8%BC%E5%83%8D%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B-Linux-%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%84%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%80%81%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B)
   * [Ubuntu 24.04 LTS serverのNote PCを閉じてもスリープさせない](https://github.com/aktnk/til/wiki/Ubuntu-Note-PC%E3%82%92%E9%96%89%E3%81%98%E3%81%A6%E3%82%82%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%97%E3%81%95%E3%81%9B%E3%81%AA%E3%81%84)
-* Pandas
+* Pandas  * [timetaggerコマンドラインを使う](https://github.com/aktnk/til/wiki/timetagger%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%86)
   * [dataframe中のカラムの型を変換する](https://github.com/aktnk/til/wiki/dataframe%E4%B8%AD%E3%81%AE%E3%82%AB%E3%83%A9%E3%83%A0%E3%81%AE%E5%9E%8B%E3%82%92%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B)
 * Plotly
   * [PlotlyでTimeline Chartを描く](https://github.com/aktnk/til/wiki/Plotly%E3%81%A7Timeline-Chart%E3%82%92%E6%8F%8F%E3%81%8F)
@@ -32,6 +32,7 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
   * [TimeTaggerサーバ起動手順](https://github.com/aktnk/til/wiki/TimeTagger%E8%B5%B7%E5%8B%95%E6%89%8B%E9%A0%86)
   * [ブラウザからTimeTaggerを使う](https://github.com/aktnk/til/wiki/%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%81%8B%E3%82%89TimeTagger%E3%82%92%E4%BD%BF%E3%81%86)
   * [WebAPIを使う](https://github.com/aktnk/til/wiki/WebAPI%E3%82%92%E4%BD%BF%E3%81%86)
+  * [timetaggerコマンドラインを使う](https://github.com/aktnk/til/wiki/timetagger%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E4%BD%BF%E3%81%86)
 * [Zabbix Server 構築](https://github.com/aktnk/til/wiki/Zabbix-Server-%E6%A7%8B%E7%AF%89)
   * [同一VPC内のUbuntu Serverの監視](https://github.com/aktnk/til/wiki/%E5%90%8C%E4%B8%80VPC%E5%86%85%E3%81%AEUbuntu-Server%E3%81%AE%E7%9B%A3%E8%A6%96)
     * [同一VPC内のUbuntu Serverのsyslogログ監視](https://github.com/aktnk/til/wiki/%E5%90%8C%E4%B8%80VPC%E5%86%85%E3%81%AEUbuntu-Server%E3%81%AEsyslog%E3%83%AD%E3%82%B0%E7%9B%A3%E8%A6%96)
