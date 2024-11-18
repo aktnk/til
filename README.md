@@ -25,6 +25,8 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
   * [DAX-COUNTに関する関数](https://github.com/aktnk/til/wiki/DAX%E2%80%90COUNT%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E9%96%A2%E6%95%B0)
   * [DAX-FILTERに関する関数](https://github.com/aktnk/til/wiki/DAX%E2%80%90FILTER%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E9%96%A2%E6%95%B0)
   * [新しい列（計算列）の作成](https://github.com/aktnk/til/wiki/%E6%96%B0%E3%81%97%E3%81%84%E5%88%97%EF%BC%88%E8%A8%88%E7%AE%97%E5%88%97%EF%BC%89%E3%81%AE%E4%BD%9C%E6%88%90)
+* Proxmox
+  * [ディスクを追加する](https://github.com/aktnk/til/wiki/Proxmox%E3%81%B8%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B8%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B)
 * RDBMS
   * SQLite
     * [CLSでSQLiteを使う](https://github.com/aktnk/til/wiki/CLS(Command-Line-Shell)%E3%81%A7SQLite%E3%82%92%E4%BD%BF%E3%81%86)
