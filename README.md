@@ -35,6 +35,7 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
   * [多次元辞書を実装する](https://github.com/aktnk/til/wiki/%E5%A4%9A%E6%AC%A1%E5%85%83%E8%BE%9E%E6%9B%B8%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%99%E3%82%8B)
 * Raspberry Pi
   * [Argon ONE M2 の SSD のインストール済みRapberry Pi OS を入れ替える](https://github.com/aktnk/til/wiki/Argon-ONE-M2-%E3%81%AE-SSD-%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%B8%88%E3%81%BFRapberry-Pi-OS-%E3%82%92%E5%85%A5%E3%82%8C%E6%9B%BF%E3%81%88%E3%82%8B)
+  * [スクリーンキャプチャを取得する](https://github.com/aktnk/til/wiki/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B) 
 * RDBMS
   * SQLite
     * [CLSでSQLiteを使う](https://github.com/aktnk/til/wiki/CLS(Command-Line-Shell)%E3%81%A7SQLite%E3%82%92%E4%BD%BF%E3%81%86)
