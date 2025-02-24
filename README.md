@@ -36,6 +36,7 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
 * Raspberry Pi
   * [Argon ONE M2 の SSD のインストール済みRapberry Pi OS を入れ替える](https://github.com/aktnk/til/wiki/Argon-ONE-M2-%E3%81%AE-SSD-%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%B8%88%E3%81%BFRapberry-Pi-OS-%E3%82%92%E5%85%A5%E3%82%8C%E6%9B%BF%E3%81%88%E3%82%8B)
   * [スクリーンキャプチャを取得する](https://github.com/aktnk/til/wiki/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B)
+  * [firewallを設定する](https://github.com/aktnk/til/wiki/firewall-%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)
   * [Pi-holeをdocker composeで運用する](https://github.com/aktnk/til/wiki/Pi%E2%80%90hole-%E3%82%92-docker-compose-%E3%81%A7%E9%81%8B%E7%94%A8%E3%81%99%E3%82%8B)
 * RDBMS
   * SQLite
