@@ -19,6 +19,7 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
   * [Node-REDでmqttをsubscribeする](https://github.com/aktnk/til/wiki/Node%E2%80%90RED-%E3%81%A7-mqtt-%E3%82%92-subscribe-%E3%81%99%E3%82%8B)
 * nginx
   * [nginxサービスの作動状況を確認する](https://github.com/aktnk/til/wiki/nginx-%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E4%BD%9C%E5%8B%95%E7%8A%B6%E6%B3%81%E7%A2%BA%E8%AA%8D)
+  * [docker composeで起動したnginxのログを常時確認する](https://github.com/aktnk/til/wiki/docker-compose%E3%81%A7%E8%B5%B7%E5%8B%95%E3%81%97%E3%81%9Fnginx%E3%81%AE%E3%83%AD%E3%82%B0%E3%82%92%E5%B8%B8%E6%99%82%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B)
 * Node-RED
   * [Node-REDでmqttをsubscribeする](https://github.com/aktnk/til/wiki/Node%E2%80%90RED-%E3%81%A7-mqtt-%E3%82%92-subscribe-%E3%81%99%E3%82%8B)
   * [Node‐RED の 管理者パスワードを変更する](https://github.com/aktnk/til/wiki/Node%E2%80%90RED-%E3%81%AE-%E7%AE%A1%E7%90%86%E8%80%85%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B)
