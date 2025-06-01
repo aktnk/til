@@ -14,6 +14,7 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
 * Kubernetes
   * [WSL2 ubuntu 20.04LTSにkubectlとkindをインストールする](https://github.com/aktnk/til/wiki/WSL2-ubuntu-20.04LTS-%E3%81%AB-kubectl-%E3%81%A8-kind-%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B)
   * [kubectlコマンドに補間機能を追加](https://github.com/aktnk/til/wiki/kubectl-%E3%81%AB%E8%A3%9C%E9%96%93%E6%A9%9F%E8%83%BD%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B)
+  * [kubectrl と minikube を Ubuntu20.04LTS にインストールし、cluster を起動する](https://github.com/aktnk/til/wiki/kubectrl-%E3%81%A8-minikube-%E3%82%92-Ubuntu20.04LTS-%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%97%E3%80%81cluster-%E3%82%92%E8%B5%B7%E5%8B%95%E3%81%99%E3%82%8B)
 * MQTT
   * [mosquittoでJSONをpublishする](https://github.com/aktnk/til/wiki/mosquitto%E3%81%A7JSON%E3%82%92publish%E3%81%99%E3%82%8B)
   * [Node-REDでmqttをsubscribeする](https://github.com/aktnk/til/wiki/Node%E2%80%90RED-%E3%81%A7-mqtt-%E3%82%92-subscribe-%E3%81%99%E3%82%8B)
