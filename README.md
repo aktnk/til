@@ -67,6 +67,7 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
 * uv
   * [uvのインストール](https://github.com/aktnk/til/wiki/un-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
   * [uvでpythonのプロジェクトを作成する](https://github.com/aktnk/til/wiki/uv%E3%81%A7python%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B)
+  * [uvでpythonのバージョンを指定する](https://github.com/aktnk/til/wiki/uv%E3%81%A7Python%E3%81%AE%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%92%E6%8C%87%E5%AE%9A%E3%81%99%E3%82%8B)
 * WSL2-Ubuntu
   * [Ansible をインストールする](https://github.com/aktnk/til/wiki/Ansible-%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B)
   * [外出（モバイルルータ使用）時の名前解決設定の自動切り替え](https://github.com/aktnk/til/wiki/%E5%A4%96%E5%87%BA%EF%BC%88%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%83%AB%E3%83%BC%E3%82%BF%E4%BD%BF%E7%94%A8%EF%BC%89%E6%99%82%E3%81%AE%E5%90%8D%E5%89%8D%E8%A7%A3%E6%B1%BA%E8%A8%AD%E5%AE%9A%E3%81%AE%E8%87%AA%E5%8B%95%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88)
