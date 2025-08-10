@@ -9,7 +9,7 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
 
 * Ansible
   * [ターゲットノードにansibleユーザーを作成する](https://github.com/aktnk/til/wiki/%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E3%83%8E%E3%83%BC%E3%83%89%E3%81%ABansible%E3%83%A6%E3%83%BC%E3%82%B6%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B)
-  * [(準備)マネージドノードからコントロールノードへアクセスできるようにする](https://github.com/aktnk/til/wiki/%EF%BC%88%E6%BA%96%E5%82%99%EF%BC%89%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%89%E3%83%8E%E3%83%BC%E3%83%89%E3%81%8B%E3%82%89%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%E3%83%8E%E3%83%BC%E3%83%89%E3%81%AB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B)
+  * [(準備)コントロールノードからマネージドノードへアクセスできるようにする](https://github.com/aktnk/til/wiki/%EF%BC%88%E6%BA%96%E5%82%99%EF%BC%89%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB%E3%83%8E%E3%83%BC%E3%83%89%E3%81%8B%E3%82%89%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%89%E3%83%8E%E3%83%BC%E3%83%89%E3%81%AB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B)
 * Flask
   * [RestAPIでPOSTデータを受け取る](https://github.com/aktnk/til/wiki/RestAPI%E3%81%A7POST%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E5%8F%97%E3%81%91%E5%8F%96%E3%82%8B)
 * [JavaScript](https://github.com/aktnk/til/wiki/JavaScript)
