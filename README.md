@@ -67,6 +67,7 @@ The contents of TIL are listed on the Wiki page of TIL repository, so please see
   * [Ubuntu 24.04 LTS serverのNote PCを閉じてもスリープさせない](https://github.com/aktnk/til/wiki/Ubuntu-Note-PC%E3%82%92%E9%96%89%E3%81%98%E3%81%A6%E3%82%82%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%97%E3%81%95%E3%81%9B%E3%81%AA%E3%81%84)
   * [不要になったパッケージrepositoryの削除](https://github.com/aktnk/til/wiki/%E4%B8%8D%E8%A6%81%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8repository%E3%81%AE%E5%89%8A%E9%99%A4)
   * [LaptopPCのバッテリ状態を確認する](https://github.com/aktnk/til/wiki/Laptop-PC%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%81%AE%E5%85%85%E9%9B%BB%E7%8A%B6%E6%85%8B%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%99%E3%82%8B)
+  * [LaptopPCのバッテリ充電の閾値を設定する](https://github.com/aktnk/til/wiki/LaptopPC%E3%81%AE%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E5%85%85%E9%9B%BB%E3%81%AE%E9%96%BE%E5%80%A4%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)
 * uv
   * [uvのインストール](https://github.com/aktnk/til/wiki/un-%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
   * [uvでpythonのプロジェクトを作成する](https://github.com/aktnk/til/wiki/uv%E3%81%A7python%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B)
